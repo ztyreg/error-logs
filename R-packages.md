@@ -1,3 +1,10 @@
+# How to Install
+## CRAN
+* Use `install()` to install locally.
+## Bioconductor
+## Github
+* Use `install_local("path/to/unzipped_pkg_zip_file")` to install locally.
+
 # Installing R packages
 * Error installing RcppArmadillo.
 > https://github.com/RcppCore/RcppArmadillo/issues/71
